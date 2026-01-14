@@ -90,12 +90,12 @@ export default function Home() {
             }}>
               For detailed process narratives and full case studies, visit{' '}
               <a 
-                href="https://sidtorres.design" 
+                href="https://sidtorres.xyz" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 style={{ color: 'var(--accent)', textDecoration: 'underline' }}
               >
-                sidtorres.design
+                sidtorres.xyz
               </a>
               {' '}— password available on request.
             </p>
